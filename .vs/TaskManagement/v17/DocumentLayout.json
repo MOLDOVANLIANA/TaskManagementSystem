@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET exercises\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\service\\taskmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\service\\taskmanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\contracts\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\contracts\\isaveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|d:\\.net exercises\\taskmanagement\\taskmanagement\\entities\\teamname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754ABB61-E933-4C36-A53B-6497E3791797}|TaskManagement\\TaskManagement.csproj|solutionrelative:taskmanagement\\entities\\teamname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Utilities.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Utilities.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Utilities.cs",
+              "RelativeToolTip": "TaskManagement\\Utilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:26:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISaveable.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Contracts\\ISaveable.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Contracts\\ISaveable.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Contracts\\ISaveable.cs",
+              "RelativeToolTip": "TaskManagement\\Contracts\\ISaveable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T11:23:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Status.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\Status.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Status.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:49:51.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeamName.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\TeamName.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\TeamName.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\TeamName.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\TeamName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:38:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagementService.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Service\\TaskManagementService.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Service\\TaskManagementService.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Service\\TaskManagementService.cs",
+              "RelativeToolTip": "TaskManagement\\Service\\TaskManagementService.cs",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAEwFQBAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:34:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\Task.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Task.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\Task.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:33:16.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\Project.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Project.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\Project.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:32:29.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\Team.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Team.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:31:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Entities\\Entity.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Entities\\Entity.cs",
+              "RelativeToolTip": "TaskManagement\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAtwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:30:19.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement\\Program.cs",
+              "ToolTip": "D:\\.NET exercises\\TaskManagement\\TaskManagement\\Program.cs",
+              "RelativeToolTip": "TaskManagement\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:25:36.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

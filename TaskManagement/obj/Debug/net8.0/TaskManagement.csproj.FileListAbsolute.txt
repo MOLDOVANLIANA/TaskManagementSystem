@@ -1,0 +1,14 @@
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfoInputs.cache
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.AssemblyInfo.cs
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.csproj.CoreCompileInputs.cache
+D:\.NET exercises\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.exe
+D:\.NET exercises\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.deps.json
+D:\.NET exercises\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.runtimeconfig.json
+D:\.NET exercises\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.dll
+D:\.NET exercises\TaskManagement\TaskManagement\bin\Debug\net8.0\TaskManagement.pdb
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.dll
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\refint\TaskManagement.dll
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.pdb
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\TaskManagement.genruntimeconfig.cache
+D:\.NET exercises\TaskManagement\TaskManagement\obj\Debug\net8.0\ref\TaskManagement.dll
